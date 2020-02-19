@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "String": "one-string-value",
+    "Number": 123,
+    "LiteralList": [
+      "first-value",
+      "second-value"
+    ],
+    "Boolean": true,
+    "ReferenceForOneValue": {
+      "Ref": "MyLogicalResourceName"
+    }
+  }
+}
